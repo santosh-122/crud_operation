@@ -1,0 +1,71 @@
+input{
+    margin:10px;
+    width: 360px;
+    padding: 5px;
+}
+
+label{
+    font-weight:Bold;
+}
+.day{
+  padding: 5px 10px;
+  color: whitesmoke;
+  background-color: green;
+  border: none;
+  border-radius: 0.5em;
+  margin-left: 8em;
+  margin-top: 1em;
+  cursor:pointer;
+}
+.day:hover {
+
+    background-color: greenyellow;
+}
+
+form{
+    text-align: left;
+    margin-left: 10em;
+}
+
+.border{
+    border: 2px solid black;
+    width: 360px;
+    margin-left: 16em;
+    margin-top: 30px;
+    padding: 20px;
+    background-color: bisque;
+}
+
+button {
+    padding: 5px 10px;
+    color: whitesmoke;
+    background-color: red;
+    border: none;
+    border-radius: 0.5em;
+    margin-left: 8em;
+    margin-top: 1em;
+    cursor:pointer;
+    margin-left: 1px;
+    
+  }
+  button:hover {
+  
+      background-color: rgb(19, 14, 14);
+  }
+
+  .blue {
+    padding: 5px 10px;
+    color: whitesmoke;
+    background-color: blueviolet;
+    border: none;
+    border-radius: 0.5em;
+    margin-left: 8em;
+    margin-top: 1em;
+    cursor:pointer;
+    margin-left: 1px;
+    
+  }
+  .blue:hover {
+  
+      background-color: rgb(150, 119, 179);
+  }
